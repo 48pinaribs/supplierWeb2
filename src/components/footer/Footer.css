@@ -1,0 +1,17 @@
+.footer {
+    background-color: #e8ebee;
+    padding: 15px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+}
+
+.footer p {
+    margin: auto;
+    color: #868383;
+    font-weight: lighter;
+    text-align: center;
+    display: flex;
+}

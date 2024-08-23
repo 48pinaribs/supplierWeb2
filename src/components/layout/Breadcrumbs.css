@@ -1,0 +1,11 @@
+.breadcrumbs {
+    padding-top: 20px;
+    padding-left: 50px;
+}
+
+.breadcrumbsLink {
+    color: rgb(48, 89, 202);
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration-line: underline;
+}
